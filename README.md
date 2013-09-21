@@ -27,5 +27,5 @@ This is a modloader mod. There are two main ways to install it. If you already h
 ### Events
 
  * ADD: Holy Protection event - Prevents various harmful (possibly lethal) events from occuring in your ingame first month.
- * CHANGE: Whisper of Death event creates a weakened version of the normal zombies.
- * CHANGE: Whisper of Death can only occur at night.
+ * CHANGE: Living death Whisper event creates a weakened version of the normal zombies.
+ * CHANGE: Living death Whisper can only occur at night.
