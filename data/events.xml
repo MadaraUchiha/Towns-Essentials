@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<events>
+
+    <event>
+        <fxRunning>fxnone</fxRunning>
+    </event>
+
+<!--     <event>
+        <id>holyprotection</id>
+        <name>Holy Protection</name>
+
+        <icon>event_holyprotection</icon>
+
+        <order>1</order>
+        <spawnAtRandom>false</spawnAtRandom>
+
+    </event> -->
+
+</events>

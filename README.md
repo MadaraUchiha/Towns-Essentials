@@ -26,6 +26,9 @@ This is a modloader mod. There are two main ways to install it. If you already h
 ## Modifications ##
 ### Events
 
+ * CHANGE: Removed chicken rooster at day event.
+
+#### Todo
  * ADD: Holy Protection event - Prevents various harmful (possibly lethal) events from occuring in your ingame first month.
  * CHANGE: Living death Whisper event creates a weakened version of the normal zombies.
  * CHANGE: Living death Whisper can only occur at night.
