@@ -26,7 +26,7 @@ This is a modloader mod. There are two main ways to install it. If you already h
 ## Modifications ##
 ### Events
 
- * CHANGE: Removed chicken rooster at day event.
+ * CHANGE: Removed rooster sound effect at day event.
 
 #### Todo
  * ADD: Holy Protection event - Prevents various harmful (possibly lethal) events from occuring in your ingame first month.

@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+
 <events>
 
+    <delete id="day" />
     <event>
-        <fxRunning>fxnone</fxRunning>
+        <id>day</id>
+        <name esES="Día">Day</name>
+
+        <icon>event_day</icon>
+        <order>1</order>
+        <spawnAtRandom>false</spawnAtRandom>
+
+        <turns>2000</turns>
+        <afterEvents>preevening</afterEvents>
     </event>
+
 
 <!--     <event>
         <id>holyprotection</id>
